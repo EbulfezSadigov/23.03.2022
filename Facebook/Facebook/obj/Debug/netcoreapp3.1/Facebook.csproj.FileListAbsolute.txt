@@ -1,0 +1,14 @@
+C:\Users\test\source\repos\Facebook\Facebook\bin\Debug\netcoreapp3.1\Facebook.exe
+C:\Users\test\source\repos\Facebook\Facebook\bin\Debug\netcoreapp3.1\Facebook.deps.json
+C:\Users\test\source\repos\Facebook\Facebook\bin\Debug\netcoreapp3.1\Facebook.runtimeconfig.json
+C:\Users\test\source\repos\Facebook\Facebook\bin\Debug\netcoreapp3.1\Facebook.runtimeconfig.dev.json
+C:\Users\test\source\repos\Facebook\Facebook\bin\Debug\netcoreapp3.1\Facebook.dll
+C:\Users\test\source\repos\Facebook\Facebook\bin\Debug\netcoreapp3.1\Facebook.pdb
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.AssemblyInfo.cs
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.dll
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.pdb
+C:\Users\test\source\repos\Facebook\Facebook\obj\Debug\netcoreapp3.1\Facebook.genruntimeconfig.cache
