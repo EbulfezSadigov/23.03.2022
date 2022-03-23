@@ -10,7 +10,7 @@ namespace Facebook.Models
         public string shareddate;
         public int likecount;
         public int commentcount;
-        public string [] Comment;
+        public Comment[] Comment;
 
         public Post(string text,int likecount)
         {

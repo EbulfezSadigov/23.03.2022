@@ -11,7 +11,7 @@ namespace Facebook.Models
         public string email;
         public string DateOfBirth;
         public bool isSingle;
-        public string[] Post;
+        public Post[] post;
 
         public User()
         {

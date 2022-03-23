@@ -9,7 +9,7 @@ namespace Class
         public bool IsOn;
 
 
-        public Car(string model, string make, string year) : base()
+        public Car(string model, string make, string year) : base(model,make,year)
         {
             
         }

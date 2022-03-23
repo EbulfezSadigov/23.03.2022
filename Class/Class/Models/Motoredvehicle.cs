@@ -46,7 +46,7 @@ namespace Class
 
         public void GetDetailedInfo()
         {
-            this.fuelamount = 60;
+            fuelamount = 60;
             Console.WriteLine("Car's fuelamount is"+" "+fuelamount);
         }
     }
